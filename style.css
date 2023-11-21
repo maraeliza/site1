@@ -94,8 +94,12 @@ p{
 	height:250px;
 	width:450px;
 	align-self: center;
+	opacity:0.5;
 }
- 
+
+.servico-img:hover{
+	opacity:1;
+}
 #n{
 	font-size:128px ;
 }
@@ -158,6 +162,7 @@ p{
 
   
 } 
+
 .caixa{
     align-items: center;
     margin-bottom:20px;
